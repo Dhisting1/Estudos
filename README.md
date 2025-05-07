@@ -8,6 +8,8 @@ Este repositório é dedicado ao meu **aprendizado contínuo** nas seguintes tec
 - 🐧 **Linux**
 - 📐 **Algoritmos e Estruturas de Dados**
 - 🔗 **Blockchain**
+- 🟨 **JavaScript**
+- 🌐 **Node.js**
 
 ---
 
@@ -31,6 +33,8 @@ O repositório está organizado por **pastas temáticas**, separadas por tecnolo
 estudos/
 ├── react/
 ├── java/
+├── javascript/
+├── nodejs/
 ├── docker/
 ├── linux/
 ├── algoritmos-e-estruturas/
