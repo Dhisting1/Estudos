@@ -4,12 +4,34 @@ import "./styles/theme.css";
 export function App() {
   return (
     <>
-      <h1>Olá mundo!</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque
-        cupiditate fugit dolores harum, provident sed quae! Et maiores aperiam
-        omnis, tempore a ullam vero quos quod commodi voluptas? Suscipit, culpa!
-      </p>
+      <div className="container-fluid">
+        <div className="container">
+          <div className="content">
+            <section>LOGO</section>
+          </div>
+        </div>
+      </div>
+      <div className="container-fluid">
+        <div className="container">
+          <div className="content">
+            <section>MENU</section>
+          </div>
+        </div>
+      </div>
+      <div className="container-fluid">
+        <div className="container">
+          <div className="content">
+            <section>FORM</section>
+          </div>
+        </div>
+      </div>
+      <div className="container-fluid">
+        <div className="container">
+          <div className="content">
+            <section>FOOTER</section>
+          </div>
+        </div>
+      </div>
     </>
   );
 }
