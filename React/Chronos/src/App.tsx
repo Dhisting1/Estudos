@@ -1,23 +1,24 @@
-import { HeadingComponent } from "./components/HeadingComponent";
-import { ContainerComponent } from "./components/ContainerComponent";
+import { Container } from "./components/ContainerComponent";
+import { Heading } from "./components/HeadingComponent";
+import { Logo } from "./components/Logo";
 import "./styles/global.css";
 import "./styles/theme.css";
 
 export function App() {
   return (
     <>
-      <ContainerComponent>
-        <HeadingComponent>LOGO</HeadingComponent>
-      </ContainerComponent>
-      <ContainerComponent>
-        <HeadingComponent>MENU</HeadingComponent>
-      </ContainerComponent>
-      <ContainerComponent>
-        <HeadingComponent>FORM</HeadingComponent>
-      </ContainerComponent>
-      <ContainerComponent>
-        <HeadingComponent>FOOTER</HeadingComponent>
-      </ContainerComponent>
+      <Container>
+        <Logo />
+      </Container>
+      <Container>
+        <Heading>MENU</Heading>
+      </Container>
+      <Container>
+        <Heading>FORM</Heading>
+      </Container>
+      <Container>
+        <Heading>FOOTER</Heading>
+      </Container>
     </>
   );
 }
