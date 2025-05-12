@@ -4,6 +4,7 @@
   justify-content: center;
   gap: 1.6rem;
   margin-top: 6.4rem;
+  ;
 }
 .menuLink{
   display: inline-flex;
@@ -17,6 +18,7 @@
   color: var(--text-over-primary);
 
   transition: all 0.19s ease-in-out;
+  cursor: pointer;
 }
 
 .menuLink:hover{
