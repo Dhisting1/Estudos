@@ -25,7 +25,7 @@ O repositório está organizado por pastas temáticas, separadas por tecnologia 
 
 - [Sistema de Gerenciamento de Biblioteca](https://github.com/Dhisting1/Estudos/tree/main/Java/Sistema-de-Gerenciamento-de-Biblioteca): Sistema que permite o gerenciamento de livros, autores, editoras, usuários e funcionários, aplicando conceitos de Programação Orientada a Objetos e modelagem UML.
 
-- [CRUD-POO](https://github.com/Dhisting1/Estudos/tree/main/Java/Agenda-Crud-Java): Projeto CRUD simples para gerenciamento de pessoas, utilizando Java, MySQL e princípios de POO.
+- [Agenda C.R.U.D](https://github.com/Dhisting1/Estudos/tree/main/Java/Agenda-Crud-Java): Projeto CRUD simples para gerenciamento de pessoas, utilizando Java, MySQL e princípios de POO.
 
 - [Conta Bancária](https://github.com/Dhisting1/Estudos/tree/main/Java/conta-bancaria): Simulação de operações bancárias básicas, como depósito, saque e visualização de saldo, para prática de POO em Java.
 
