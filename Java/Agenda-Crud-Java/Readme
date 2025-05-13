@@ -1,0 +1,36 @@
+# CRUD-POO
+
+Projeto da disciplina de **Programação Orientada a Objetos (POO)** com foco na implementação de um sistema **CRUD (Create, Read, Update, Delete)** para gerenciamento de pessoas, utilizando **Java** e **MySQL**.
+
+## 🧠 Objetivo
+
+Desenvolver uma aplicação simples que utilize os principais conceitos da Programação Orientada a Objetos, aliando teoria à prática com a integração ao banco de dados.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Java** (Linguagem de Programação)
+- **MySQL** (Banco de Dados Relacional)
+
+## 📚 Conceitos Aplicados
+
+Durante o desenvolvimento deste projeto, foram aplicados os seguintes tópicos aprendidos em sala de aula:
+
+- Conexão com banco de dados utilizando JDBC;
+- Otimização e reutilização de conexões com o banco;
+- Interface;
+- Classe abstrata;
+- Herança;
+- Polimorfismo;
+- Encapsulamento;
+- Métodos e atributos estáticos;
+- Tratamento de exceções;
+- Utilização de listas (`ArrayList`);
+
+## 👨‍💻 Funcionalidades do CRUD
+
+- **Criar** uma nova pessoa no sistema;
+- **Ler** informações de pessoas cadastradas;
+- **Atualizar** dados existentes;
+- **Excluir** registros do banco de dados.
+
+
