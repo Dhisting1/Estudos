@@ -8,14 +8,14 @@ Este repositório é dedicado ao meu aprendizado contínuo em diversas tecnologi
 
 O repositório está organizado por pastas temáticas, separadas por tecnologia ou área de estudo:
 
-- [React](https://github.com/Dhisting1/Estudos/tree/main/react)
-- [Java](https://github.com/Dhisting1/Estudos/tree/main/java)
-- [JavaScript](https://github.com/Dhisting1/Estudos/tree/main/javascript)
-- [Node.js](https://github.com/Dhisting1/Estudos/tree/main/nodejs)
-- [Docker](https://github.com/Dhisting1/Estudos/tree/main/docker)
-- [Linux](https://github.com/Dhisting1/Estudos/tree/main/linux)
-- [Algoritmos e Estruturas de Dados](https://github.com/Dhisting1/Estudos/tree/main/algoritmos-e-estruturas)
-- [Blockchain](https://github.com/Dhisting1/Estudos/tree/main/blockchain)
+- [React](https://github.com/Dhisting1/Estudos/tree/main/React)
+- [Java](https://github.com/Dhisting1/Estudos/tree/main/Java)
+- [JavaScript](https://github.com/Dhisting1/Estudos/tree/main/Javascript)
+- [Node.js](https://github.com/Dhisting1/Estudos/tree/main/Nodejs)
+- [Docker](https://github.com/Dhisting1/Estudos/tree/main/Docker)
+- [Linux](https://github.com/Dhisting1/Estudos/tree/main/Linux)
+- [Algoritmos e Estruturas de Dados](https://github.com/Dhisting1/Estudos/tree/main/Algoritmos-e-estruturas)
+- [Blockchain](https://github.com/Dhisting1/Estudos/tree/main/Blockchain)
 
 ---
 
@@ -23,16 +23,20 @@ O repositório está organizado por pastas temáticas, separadas por tecnologia 
 
 ### Java
 
-- [Sistema de Gerenciamento de Biblioteca](https://github.com/Dhisting1/Estudos/tree/main/java/Sistema-de-Gerenciamento-de-Biblioteca): Sistema que permite o gerenciamento de livros, autores, editoras, usuários e funcionários, aplicando conceitos de Programação Orientada a Objetos e modelagem UML.
+- [Sistema de Gerenciamento de Biblioteca](https://github.com/Dhisting1/Estudos/tree/main/Java/Sistema-de-Gerenciamento-de-Biblioteca): Sistema que permite o gerenciamento de livros, autores, editoras, usuários e funcionários, aplicando conceitos de Programação Orientada a Objetos e modelagem UML.
 
-- [CRUD-POO](https://github.com/Dhisting1/Estudos/tree/main/java/CRUD-POO): Projeto CRUD simples para gerenciamento de pessoas, utilizando Java, MySQL e princípios de POO.
+- [CRUD-POO](https://github.com/Dhisting1/Estudos/tree/main/Java/Agenda-Crud-Java): Projeto CRUD simples para gerenciamento de pessoas, utilizando Java, MySQL e princípios de POO.
 
-- [Conta Bancária](https://github.com/Dhisting1/Estudos/tree/main/java/conta-bancaria): Simulação de operações bancárias básicas, como depósito, saque e visualização de saldo, para prática de POO em Java.
+- [Conta Bancária](https://github.com/Dhisting1/Estudos/tree/main/Java/conta-bancaria): Simulação de operações bancárias básicas, como depósito, saque e visualização de saldo, para prática de POO em Java.
 
 ### React
 
-- [Chronos](https://github.com/Dhisting1/Estudos/tree/main/react/Chronos): Projeto desenvolvido para praticar conceitos fundamentais do React, incluindo componentes, estados e props.
+- [Chronos](https://github.com/Dhisting1/Estudos/tree/main/React/Chronos): Projeto desenvolvido para praticar conceitos fundamentais do React, incluindo componentes, estados e props.
 
+### Node.js
+
+- [Clínica - CRUD com Sequelize e MySQL](https://github.com/Dhisting1/Estudos/tree/main/React/clinica)  
+  Projeto backend para gerenciamento de pacientes em uma clínica, utilizando **Node.js**, **Express**, **Sequelize** e **MySQL**.
 ---
 
 ## 🎯 Objetivo
